@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/dutch-man/dutch-man.iml" filepath="$PROJECT_DIR$/dutch-man/dutch-man.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jack-sparrow/jack-sparrow.iml" filepath="$PROJECT_DIR$/jack-sparrow/jack-sparrow.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/pirates-of-code-bean-dead-mans-chest.iml" filepath="$PROJECT_DIR$/.idea/pirates-of-code-bean-dead-mans-chest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tia-dalma/tia-dalma.iml" filepath="$PROJECT_DIR$/tia-dalma/tia-dalma.iml" />
+    </modules>
+  </component>
+</project>
